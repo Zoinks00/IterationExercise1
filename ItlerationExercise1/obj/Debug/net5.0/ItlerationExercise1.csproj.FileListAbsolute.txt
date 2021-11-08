@@ -1,0 +1,16 @@
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\bin\Debug\net5.0\ItlerationExercise1.exe
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\bin\Debug\net5.0\ItlerationExercise1.deps.json
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\bin\Debug\net5.0\ItlerationExercise1.runtimeconfig.json
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\bin\Debug\net5.0\ItlerationExercise1.runtimeconfig.dev.json
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\bin\Debug\net5.0\ItlerationExercise1.dll
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\bin\Debug\net5.0\ref\ItlerationExercise1.dll
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\bin\Debug\net5.0\ItlerationExercise1.pdb
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ItlerationExercise1.csproj.AssemblyReference.cache
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ItlerationExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ItlerationExercise1.AssemblyInfoInputs.cache
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ItlerationExercise1.AssemblyInfo.cs
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ItlerationExercise1.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ItlerationExercise1.dll
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ref\ItlerationExercise1.dll
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ItlerationExercise1.pdb
+C:\Users\forre\repos\ItlerationExercise1\ItlerationExercise1\obj\Debug\net5.0\ItlerationExercise1.genruntimeconfig.cache
